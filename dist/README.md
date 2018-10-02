@@ -12,6 +12,7 @@ webpack --config=config/webpack.dev.js
 2. Merge src and master branches.
 
 ```shell
+git checkout master
 git merge src
 ```
 
