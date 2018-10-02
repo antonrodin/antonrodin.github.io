@@ -93,7 +93,7 @@
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-eval("exports = module.exports = __webpack_require__(/*! ../node_modules/css-loader/lib/css-base.js */ \"./node_modules/css-loader/lib/css-base.js\")(false);\n// imports\n\n\n// module\nexports.push([module.i, \"body {\\n    background-color: #333;\\n    margin: 0px;\\n    padding: 0px;\\n}\\n\\nh1 {\\n    color: #fff;\\n    justify-content: center;\\n}\", \"\"]);\n\n// exports\n\n\n//# sourceURL=webpack:///./src/main.css?./node_modules/css-loader");
+eval("exports = module.exports = __webpack_require__(/*! ../node_modules/css-loader/lib/css-base.js */ \"./node_modules/css-loader/lib/css-base.js\")(false);\n// imports\n\n\n// module\nexports.push([module.i, \"body {\\n    background-color: #333;\\n    margin: 0px;\\n    padding: 0px;\\n}\\n\\nh1 {\\n    color: #fff;\\n    height: 100vh;\\n    display: flex;\\n    justify-content: center;\\n    align-items: center;\\n    font-size: 4em;\\n    font-family: Verdana;\\n    text-shadow: 0 0 20px #000;\\n}\", \"\"]);\n\n// exports\n\n\n//# sourceURL=webpack:///./src/main.css?./node_modules/css-loader");
 
 /***/ }),
 
