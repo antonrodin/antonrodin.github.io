@@ -1,0 +1,19 @@
+{
+  "name": "antonrodin-github-io",
+  "version": "1.0.0",
+  "description": "Personal Website",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antonrodin/antonrodin.github.io.git"
+  },
+  "author": "Anton Zekeriev Rodin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/antonrodin/antonrodin.github.io/issues"
+  },
+  "homepage": "https://github.com/antonrodin/antonrodin.github.io#readme"
+}
